@@ -58,9 +58,9 @@ translator:
   preedit_format:
     - 'xform a\- ā'
     - 'xform e\- ē'
-    - 'xform a\- ī'
-    - 'xform a\- ō'
-    - 'xform a\- ū'
+    - 'xform i\- ī'
+    - 'xform o\- ō'
+    - 'xform u\- ū'
     - 'xform a\^ â'
     - 'xform e\^\. ệ' # 还真有这么个单字符
     - 'xform e\^ ê'
