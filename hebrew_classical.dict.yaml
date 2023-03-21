@@ -107,10 +107,10 @@ sort: original
 ר	r
 # ש	sh
 # we use combining forms
-שׁ	s'
-שּׁ	s's'
-שׂ	s,
-שּׂ	s,s,
+שׁ	s,
+שּׁ	s,s,
+שׂ	s'
+שּׂ	s's'
 # or use precomposed letters, but they are in the 'presentation forms' block
 # and are therefore not supposed to be used independently.
 # שׂ	s'
