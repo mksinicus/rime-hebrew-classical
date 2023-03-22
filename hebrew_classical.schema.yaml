@@ -45,7 +45,7 @@ menu:
   alternative_select_keys: "123456789"
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyz`()[]-;',.~^"
+  alphabet: "abcdefghijklmnopqrstuvwxyz`()[]-=;',.~^"
   delimiter: ' '
   auto_select: false # 
 
@@ -90,7 +90,6 @@ translator:
     - 'xform \s '
 
 # Incomplete
-# 因为是古典希伯来语转写，不使用 Maqaf
 punctuator:
   use_space: true
   half_shape: &punct
