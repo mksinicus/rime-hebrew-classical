@@ -5,7 +5,7 @@
 schema:
   schema_id: hebrew_classical
   name: "希伯来文（古典）"
-  version: "0.1.2"
+  version: "0.2"
   author:
     - mksinicus <marcuszhonggh@foxmail.com>
   description: |
